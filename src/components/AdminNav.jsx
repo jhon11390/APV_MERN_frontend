@@ -13,7 +13,7 @@ const AdminNav = () => {
       <Link
         to="/admin/olvide-password"
         className="font-bold uppercase text-gray-500"
-      >Cambiar Password 
+      >Cambiar Password
       </Link>
     </nav>
   )
